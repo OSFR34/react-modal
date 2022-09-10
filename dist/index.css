@@ -1,0 +1,48 @@
+._kjKgX{
+  position : fixed;
+  top:0;
+  left:0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0,0,0,0.65);
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  z-index:9999;
+}
+
+._2kmzk{
+  display:none;
+  z-index:0;
+}
+._10Akc{
+  width: 50vw;
+  height: 5rem;
+  background-color: white;
+  box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.75);
+  border-radius: 4px;
+  position: relative;
+ }
+._2I1sI{
+  cursor:pointer;
+  position: absolute;
+  right:-8px;
+  top:-8px;
+}
+._2Kk9i{
+  border-bottom: 1px solid rgba(0,0,0,0.45); 
+  padding:10px;
+  font-weight: bold;
+}
+._2I1sI svg{
+  fill: black;
+  stroke: white;
+}
+._2flQG{
+  padding: 10px;
+}
+
+
+
+
+
