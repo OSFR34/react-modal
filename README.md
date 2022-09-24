@@ -15,7 +15,7 @@ npm install --save react-modal
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'react-modal'
+import Modal from 'react-modal'
 import 'react-modal/dist/index.css'
 
 class Example extends Component {
