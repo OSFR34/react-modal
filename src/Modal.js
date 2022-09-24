@@ -8,9 +8,6 @@ export default function Modal({
   title = 'Modal Title',
   content = 'Modal Content'
 }) {
-  const closeModal = () => {
-    document.querySelector('#modal').display = 'none'
-  }
 
   return (
     <div className={show ? styles.modalshow : styles.modalhide}>
