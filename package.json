@@ -2,6 +2,11 @@
   "name": "react-modaler",
   "version": "1.0.0",
   "description": "Made with create-react-library",
+  "keywords": [
+    "modal", 
+    "react", 
+    "frontend"
+  ],
   "author": "OSFR34",
   "license": "MIT",
   "repository": "OSFR34/react-modal",
